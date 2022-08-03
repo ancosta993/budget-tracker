@@ -151,11 +151,3 @@ document.querySelector("#add-btn").onclick = function() {
 document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
 };
-
-(function() {
-  if("serviceWorker" in navigator) {
-    navigator.serviceWorker.register('../service-worker.js')
-    .then(() => console.log("Service Worker: Registered successfully"))
-    .catch((error) => console.log("Service Worker: Registration failed", error));
-  }
-})();
