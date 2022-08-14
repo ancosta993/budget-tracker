@@ -1,7 +1,7 @@
 # Budget Tracker Starter Code
 
 ## Description
-This application follows the Progressive Web Application rules. This is an attempt to create a Progressive Web Application. The front and backend of the project was cloned from [this repo](). This repo adds service worker and indexDB to make the static HTML pages render offline and handle submited data offline. Finally, this project also added the manifest for mobile applications.
+This application follows the Progressive Web Application rules. This is an attempt to create a Progressive Web Application. The front and backend of the project was cloned from [this repo](https://github.com/coding-boot-camp/symmetrical-bassoon). This repo adds service worker and indexDB to make the static HTML pages render offline and handle submited data offline. Finally, this project also added the manifest for mobile applications.
 
 ## Table of Content
 **[Description](#description)**
